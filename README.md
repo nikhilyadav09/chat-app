@@ -1,4 +1,4 @@
-# Multi-Client Chat Application (Socket Programming)
+# Multi-Client Chat Application
 
 ## Overview
 
@@ -97,8 +97,6 @@ chat-app/
   * `socket`
   * `threading`
   * `datetime`
-
-No external networking libraries are used.
 
 ---
 
@@ -206,4 +204,5 @@ The application was tested with:
 ## Author
 
 Nikhil Yadav
-B.Tech Computer Science
+3rd Year B.Tech Computer Science
+Sitare University
